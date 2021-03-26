@@ -4,7 +4,6 @@ classdef Sun
     (C) 2020 University of Colorado AES-CCAR-SEDA (Space Environment Data Analysis) Group 
     Written by Liam M. Kilcommons
     Translated to matlab code by Nick Dietrich
-    lil test edit
     %}
     methods (Static)
         function [jd] = datetime2jd(dt)
